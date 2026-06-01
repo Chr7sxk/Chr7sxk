@@ -1,4 +1,4 @@
-# Hi, I'm Kevin Escandon 👋
+# Hello, I'm Kevin Escandon
 
 **IT Security Professional · CompTIA Trifecta (A+, Net+, Sec+) · Bilingual (EN/ES)**
 
@@ -6,7 +6,7 @@ I believe the best cybersecurity professionals are built from the ground up — 
 
 ---
 
-## 🔐 What I Build
+##What I've Built
 
 ### [Wazuh SIEM Threat Detection Lab](https://github.com/Chr7sxk/wazuh-siem-lab)
 Deployed a fully isolated 3-VM lab (Wazuh SIEM + Kali Linux + Metasploitable2) to simulate real-world attacks and detect them end-to-end.
@@ -21,15 +21,19 @@ Built an isolated attack/defense environment with zero network exposure to pract
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 | Active | In Progress |
 |--------|-------------|
 | CompTIA Security+ | CySA+ |
 | CompTIA Network+ | TryHackMe SOC Level 1 (SAL1) |
 | CompTIA A+ | |
-| Tech+ · CSIS · CIOS | |
+| CompTIA Tech+ | |
+| CSIS · CIOS  | |
 | Cisco Networking CompCert | |
+| TestOUT Linux PRO | |
+| TestOUT Security PRO | |
+| TestOUT PC PRO | |
 
 ---
 
