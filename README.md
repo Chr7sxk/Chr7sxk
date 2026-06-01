@@ -6,7 +6,7 @@ I believe the best cybersecurity professionals are built from the ground up — 
 
 ---
 
-##What I've Built
+## What I've Built
 
 ### [Wazuh SIEM Threat Detection Lab](https://github.com/Chr7sxk/wazuh-siem-lab)
 Deployed a fully isolated 3-VM lab (Wazuh SIEM + Kali Linux + Metasploitable2) to simulate real-world attacks and detect them end-to-end.
@@ -37,7 +37,7 @@ Built an isolated attack/defense environment with zero network exposure to pract
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ```
 Security Tools    │ Wazuh (SIEM)  · Metasploit · Wireshark · Nmap · Hydra
@@ -50,7 +50,7 @@ Virtualization    │ Oracle VirtualBox · Isolated Lab Architecture
 
 ---
 
-## 🎓 Background
+## Background
 
 - **West-MEC** — 900-Hour IT Security Program, Certificate of Program Completion (2024–2026)
 - Passed the **Arizona CTE Technical Skills Assessment in Network Security** — a state-recognized, industry-validated credential
