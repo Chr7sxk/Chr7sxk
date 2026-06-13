@@ -1,16 +1,16 @@
-# Hey, I'm Kevin Escandon 👋
+# I'm Kevin Escandon
 
 **IT Security Professional · CompTIA Trifecta (A+, Net+, Sec+) · Bilingual (EN/ES)**
 
 I'm building toward a career in cybersecurity the same way I believe good security gets built — from the ground up, with real hands-on practice. I earned the CompTIA trifecta in 40 days, then took that knowledge straight into self-built labs, because that's where skills actually stick.
 
-🔭 Currently working on: **CySA+ exam prep · TryHackMe SOC Level 1 (SAL1)**  
-🌱 Currently training in: **Threat hunting · SOC workflows · Log analysis**  
-📍 Arizona, United States
+Currently working on: **CySA+ exam prep · TryHackMe SOC Level 1 (SAL1)**  
+Currently training in: **Threat hunting · SOC workflows · Log analysis**  
+Arizona, United States
 
 ---
 
-## 🔧 What I've Built
+## What I've Built
 
 ### [🛡️ Wazuh SIEM Threat Detection Lab](https://github.com/Chr7sxk/wazuh-siem-lab)
 Deployed a fully isolated 3-VM environment (Wazuh 4.14.5 + Kali Linux 2026.1 + Metasploitable2) to simulate real-world attacks and detect them end-to-end using a self-configured SIEM.
@@ -29,7 +29,7 @@ Built a fully air-gapped attack/defense environment (VirtualBox + Kali + Metaspl
 
 ---
 
-## 🎓 Background
+## Background
 
 - **XP Cyber Range** — Scenario-based cybersecurity training (Mar–May 2026)  
   Validated 39-point infrastructure checks across Active Directory, PfSense, DNS/NTP, VPN, mail stack, MySQL, and file services in a realistic multi-host MSP environment
@@ -41,9 +41,9 @@ Built a fully air-gapped attack/defense environment (VirtualBox + Kali + Metaspl
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-| ✅ Active | 🔄 In Progress |
+| Active | In Progress |
 |---|---|
 | CompTIA Security+ ce | CySA+ |
 | CompTIA Network+ ce | TryHackMe SOC Level 1 (SAL1) |
@@ -58,7 +58,7 @@ Built a fully air-gapped attack/defense environment (VirtualBox + Kali + Metaspl
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ```
 Security Tools     │ Wazuh (SIEM) · Metasploit · Wireshark · Nmap · Hydra
