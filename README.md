@@ -69,12 +69,6 @@ Virtualization     │ Oracle VirtualBox · Isolated Lab Architecture · VM Conf
 
 ---
 
-## 📊 GitHub Stats
-
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chr7sxk&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff)
-
----
-
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--escandon-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/kevin-escandon)
