@@ -8,6 +8,9 @@ Currently working on: **CySA+ exam prep · TryHackMe SOC Level 1 (SAL1)**
 Currently training in: **Threat hunting · SOC workflows · Log analysis**  
 Arizona, United States
 
+> 🔭 **Currently working on:** CySA+ exam prep · TryHackMe SOC Level 1 (SAL1)  
+> 🌱 **Currently training in:** Threat hunting · SOC workflows · Log analysis
+
 ---
 
 ## What I've Built
