@@ -1,4 +1,4 @@
-# I'm Kevin Escandon
+# Yo, I'm Kevin Escandon
 
 **IT Security Professional · CompTIA Trifecta (A+, Net+, Sec+) · Bilingual (EN/ES)**
 
@@ -43,18 +43,16 @@ Built a fully air-gapped attack/defense environment (VirtualBox + Kali + Metaspl
 
 ## Certifications
 
-| Active | In Progress |
-|---|---|
-| CompTIA Security+ ce | CySA+ |
-| CompTIA Network+ ce | TryHackMe SOC Level 1 (SAL1) |
-| CompTIA A+ ce | |
-| CompTIA Tech+ | |
-| CompTIA CSIS (Secure Infrastructure Specialist) | |
-| CompTIA CIOS (IT Operations Specialist) | |
-| Cisco Networking CompCert | |
-| TestOUT Linux PRO | |
-| TestOUT Security PRO | |
-| TestOUT PC PRO | |
+| Badge | Certification | Verify |
+|:---:|---|:---:|
+| [![Security+](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/0ebd427f-8a32-4422-98ca-2a0f1fd10dc9) | CompTIA Security+ ce | [View](https://www.credly.com/badges/0ebd427f-8a32-4422-98ca-2a0f1fd10dc9) |
+| [![Network+](https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)](https://www.credly.com/badges/1c4eb9d1-7bd3-49be-91ea-9a22fc1efb32) | CompTIA Network+ ce | [View](https://www.credly.com/badges/1c4eb9d1-7bd3-49be-91ea-9a22fc1efb32) |
+| [![A+](https://images.credly.com/size/110x110/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)](https://www.credly.com/badges/4aa238cd-b3bd-4824-a6ba-7224ed3c8950) | CompTIA A+ ce | [View](https://www.credly.com/badges/4aa238cd-b3bd-4824-a6ba-7224ed3c8950) |
+| [![Tech+](https://images.credly.com/size/110x110/images/d358c04b-d081-424f-8221-d5d63f76c144/blob)](https://www.credly.com/badges/691dfaff-fc1e-4158-b570-a3b63db6186e) | CompTIA Tech+ | [View](https://www.credly.com/badges/691dfaff-fc1e-4158-b570-a3b63db6186e) |
+| [![CSIS](https://images.credly.com/size/110x110/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png)](https://www.credly.com/badges/1a8d2333-984a-4263-b20e-93107ad41e75) | CompTIA CSIS (Secure Infrastructure Specialist) | [View](https://www.credly.com/badges/1a8d2333-984a-4263-b20e-93107ad41e75) |
+| [![CIOS](https://images.credly.com/size/110x110/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png)](https://www.credly.com/badges/ca55a5bc-fb37-4119-a3d7-46fee7a9a754) | CompTIA CIOS (IT Operations Specialist) | [View](https://www.credly.com/badges/ca55a5bc-fb37-4119-a3d7-46fee7a9a754) |
+
+**In Progress:** CySA+ · TryHackMe SOC Level 1 (SAL1)
 
 ---
 
