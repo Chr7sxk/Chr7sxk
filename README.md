@@ -4,10 +4,6 @@
 
 I'm building toward a career in cybersecurity the same way I believe good security gets built — from the ground up, with real hands-on practice. I earned the CompTIA trifecta in 40 days, then took that knowledge straight into self-built labs, because that's where skills actually stick.
 
-Currently working on: **CySA+ exam prep · TryHackMe SOC Level 1 (SAL1)**  
-Currently training in: **Threat hunting · SOC workflows · Log analysis**  
-Arizona, United States
-
 > 🔭 **Currently working on:** CySA+ exam prep · TryHackMe SOC Level 1 (SAL1)  
 > 🌱 **Currently training in:** Threat hunting · SOC workflows · Log analysis
 
