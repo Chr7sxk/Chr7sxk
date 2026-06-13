@@ -1,4 +1,4 @@
-# Yo, I'm Kevin Escandon
+# Hello, I'm Kevin Escandon
 
 **IT Security Professional · CompTIA Trifecta (A+, Net+, Sec+) · Bilingual (EN/ES)**
 
